@@ -5,9 +5,10 @@
     height: 50px;
     margin: 20px auto;
     border-radius: 5px;
+    border: white solid 2px;
 }
 .list p{
-  padding: 10px;  
+  padding-left: 10px;  
   position: relative;
 } 
 .list p span{
